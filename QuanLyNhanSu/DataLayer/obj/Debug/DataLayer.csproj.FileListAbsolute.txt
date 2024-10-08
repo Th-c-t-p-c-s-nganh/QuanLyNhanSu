@@ -1,0 +1,12 @@
+D:\BTL\QuanLyNhanSu\DataLayer\bin\Debug\DataLayer.dll.config
+D:\BTL\QuanLyNhanSu\DataLayer\bin\Debug\DataLayer.dll
+D:\BTL\QuanLyNhanSu\DataLayer\bin\Debug\DataLayer.pdb
+D:\BTL\QuanLyNhanSu\DataLayer\bin\Debug\EntityFramework.dll
+D:\BTL\QuanLyNhanSu\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\BTL\QuanLyNhanSu\DataLayer\bin\Debug\EntityFramework.xml
+D:\BTL\QuanLyNhanSu\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\BTL\QuanLyNhanSu\DataLayer\obj\Debug\DataLayer.csproj.AssemblyReference.cache
+D:\BTL\QuanLyNhanSu\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+D:\BTL\QuanLyNhanSu\DataLayer\obj\Debug\DataLayer.csproj.Up2Date
+D:\BTL\QuanLyNhanSu\DataLayer\obj\Debug\DataLayer.dll
+D:\BTL\QuanLyNhanSu\DataLayer\obj\Debug\DataLayer.pdb

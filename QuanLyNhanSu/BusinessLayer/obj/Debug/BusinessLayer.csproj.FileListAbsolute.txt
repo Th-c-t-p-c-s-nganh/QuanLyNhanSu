@@ -1,0 +1,15 @@
+D:\BTL\QuanLyNhanSu\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+D:\BTL\QuanLyNhanSu\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\BTL\QuanLyNhanSu\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\BTL\QuanLyNhanSu\BusinessLayer\bin\Debug\DataLayer.dll
+D:\BTL\QuanLyNhanSu\BusinessLayer\bin\Debug\EntityFramework.dll
+D:\BTL\QuanLyNhanSu\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\BTL\QuanLyNhanSu\BusinessLayer\bin\Debug\DataLayer.pdb
+D:\BTL\QuanLyNhanSu\BusinessLayer\bin\Debug\DataLayer.dll.config
+D:\BTL\QuanLyNhanSu\BusinessLayer\bin\Debug\EntityFramework.xml
+D:\BTL\QuanLyNhanSu\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\BTL\QuanLyNhanSu\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+D:\BTL\QuanLyNhanSu\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\BTL\QuanLyNhanSu\BusinessLayer\obj\Debug\Business.EA331CBA.Up2Date
+D:\BTL\QuanLyNhanSu\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\BTL\QuanLyNhanSu\BusinessLayer\obj\Debug\BusinessLayer.pdb
