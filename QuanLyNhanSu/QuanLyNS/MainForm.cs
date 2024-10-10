@@ -71,5 +71,10 @@ namespace QuanLyNS
         {
             loadForm(typeof(frmChucVu));
         }
+
+        private void btnNhanVien_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            loadForm(typeof(frmNhanVien));
+        }
     }
 }   

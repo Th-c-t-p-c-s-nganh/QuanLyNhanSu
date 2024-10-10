@@ -378,18 +378,6 @@
             </Dependent>
           </ReferentialConstraint>
         </Association>
-        <Association Name="FK_tb_TANGCA_tb_NHANVIEN1">
-          <End Role="tb_NHANVIEN" Type="Self.tb_NHANVIEN" Multiplicity="0..1" />
-          <End Role="tb_TANGCA" Type="Self.tb_TANGCA" Multiplicity="*" />
-          <ReferentialConstraint>
-            <Principal Role="tb_NHANVIEN">
-              <PropertyRef Name="MANV" />
-            </Principal>
-            <Dependent Role="tb_TANGCA">
-              <PropertyRef Name="MANV" />
-            </Dependent>
-          </ReferentialConstraint>
-        </Association>
         <Association Name="FK_tb_UNGLUONG_tb_NHANVIEN">
           <End Role="tb_NHANVIEN" Type="Self.tb_NHANVIEN" Multiplicity="0..1" />
           <End Role="tb_UNGLUONG" Type="Self.tb_UNGLUONG" Multiplicity="*" />
@@ -482,10 +470,6 @@
             <End Role="tb_TANGCA" EntitySet="tb_TANGCA" />
           </AssociationSet>
           <AssociationSet Name="FK_tb_TANGCA_tb_NHANVIEN" Association="Self.FK_tb_TANGCA_tb_NHANVIEN">
-            <End Role="tb_NHANVIEN" EntitySet="tb_NHANVIEN" />
-            <End Role="tb_TANGCA" EntitySet="tb_TANGCA" />
-          </AssociationSet>
-          <AssociationSet Name="FK_tb_TANGCA_tb_NHANVIEN1" Association="Self.FK_tb_TANGCA_tb_NHANVIEN1">
             <End Role="tb_NHANVIEN" EntitySet="tb_NHANVIEN" />
             <End Role="tb_TANGCA" EntitySet="tb_TANGCA" />
           </AssociationSet>
