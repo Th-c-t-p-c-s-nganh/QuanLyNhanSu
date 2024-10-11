@@ -10,3 +10,15 @@ D:\BTL\QuanLyNhanSu\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
 D:\BTL\QuanLyNhanSu\DataLayer\obj\Debug\DataLayer.csproj.Up2Date
 D:\BTL\QuanLyNhanSu\DataLayer\obj\Debug\DataLayer.dll
 D:\BTL\QuanLyNhanSu\DataLayer\obj\Debug\DataLayer.pdb
+F:\QuanLyNhanSu\QuanLyNhanSu\DataLayer\bin\Debug\DataLayer.dll.config
+F:\QuanLyNhanSu\QuanLyNhanSu\DataLayer\bin\Debug\DataLayer.dll
+F:\QuanLyNhanSu\QuanLyNhanSu\DataLayer\bin\Debug\DataLayer.pdb
+F:\QuanLyNhanSu\QuanLyNhanSu\DataLayer\bin\Debug\EntityFramework.dll
+F:\QuanLyNhanSu\QuanLyNhanSu\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+F:\QuanLyNhanSu\QuanLyNhanSu\DataLayer\bin\Debug\EntityFramework.xml
+F:\QuanLyNhanSu\QuanLyNhanSu\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+F:\QuanLyNhanSu\QuanLyNhanSu\DataLayer\obj\Debug\DataLayer.csproj.AssemblyReference.cache
+F:\QuanLyNhanSu\QuanLyNhanSu\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+F:\QuanLyNhanSu\QuanLyNhanSu\DataLayer\obj\Debug\DataLayer.csproj.Up2Date
+F:\QuanLyNhanSu\QuanLyNhanSu\DataLayer\obj\Debug\DataLayer.dll
+F:\QuanLyNhanSu\QuanLyNhanSu\DataLayer\obj\Debug\DataLayer.pdb

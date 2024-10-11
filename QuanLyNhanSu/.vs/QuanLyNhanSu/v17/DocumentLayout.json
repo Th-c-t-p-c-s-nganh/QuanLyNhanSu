@@ -1,141 +1,141 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\BTL\\QuanLyNhanSu\\",
+  "WorkspaceRootPath": "F:\\QuanLyNhanSu\\QuanLyNhanSu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|d:\\btl\\quanlynhansu\\quanlyns\\frmchucvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|f:\\quanlynhansu\\quanlynhansu\\quanlyns\\frmchucvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|solutionrelative:quanlyns\\frmchucvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F3CD9A9-4A90-43F3-A62D-9F963BB3FE30}|DataLayer\\DataLayer.csproj|D:\\BTL\\QuanLyNhanSu\\datalayer\\qlns.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
-      "RelativeMoniker": "D:0:0:{0F3CD9A9-4A90-43F3-A62D-9F963BB3FE30}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\qlns.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|D:\\BTL\\QuanLyNhanSu\\quanlyns\\frmchucvu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|F:\\QuanLyNhanSu\\QuanLyNhanSu\\quanlyns\\frmchucvu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|solutionrelative:quanlyns\\frmchucvu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|D:\\BTL\\QuanLyNhanSu\\quanlyns\\frmphongban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|solutionrelative:quanlyns\\frmphongban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|D:\\BTL\\QuanLyNhanSu\\quanlyns\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|solutionrelative:quanlyns\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|D:\\BTL\\QuanLyNhanSu\\quanlyns\\frmtrinhdo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|solutionrelative:quanlyns\\frmtrinhdo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|D:\\BTL\\QuanLyNhanSu\\quanlyns\\frmchucvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|F:\\QuanLyNhanSu\\QuanLyNhanSu\\quanlyns\\frmchucvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|solutionrelative:quanlyns\\frmchucvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|D:\\BTL\\QuanLyNhanSu\\quanlyns\\frmbophan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0F3CD9A9-4A90-43F3-A62D-9F963BB3FE30}|DataLayer\\DataLayer.csproj|F:\\QuanLyNhanSu\\QuanLyNhanSu\\datalayer\\qlns.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{0F3CD9A9-4A90-43F3-A62D-9F963BB3FE30}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\qlns.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|F:\\QuanLyNhanSu\\QuanLyNhanSu\\quanlyns\\frmphongban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|solutionrelative:quanlyns\\frmphongban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|F:\\QuanLyNhanSu\\QuanLyNhanSu\\quanlyns\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|solutionrelative:quanlyns\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|F:\\QuanLyNhanSu\\QuanLyNhanSu\\quanlyns\\frmtrinhdo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|solutionrelative:quanlyns\\frmtrinhdo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|F:\\QuanLyNhanSu\\QuanLyNhanSu\\quanlyns\\frmbophan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|solutionrelative:quanlyns\\frmbophan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4D14435-3DBD-49FE-BD4F-8186CB6A2F59}|BusinessLayer\\BusinessLayer.csproj|D:\\BTL\\QuanLyNhanSu\\businesslayer\\chucvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4D14435-3DBD-49FE-BD4F-8186CB6A2F59}|BusinessLayer\\BusinessLayer.csproj|F:\\QuanLyNhanSu\\QuanLyNhanSu\\businesslayer\\chucvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4D14435-3DBD-49FE-BD4F-8186CB6A2F59}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\chucvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|D:\\BTL\\QuanLyNhanSu\\quanlyns\\frmbophan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|F:\\QuanLyNhanSu\\QuanLyNhanSu\\quanlyns\\frmbophan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|solutionrelative:quanlyns\\frmbophan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|D:\\BTL\\QuanLyNhanSu\\quanlyns\\frmbophan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|F:\\QuanLyNhanSu\\QuanLyNhanSu\\quanlyns\\frmbophan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|solutionrelative:quanlyns\\frmbophan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|D:\\BTL\\QuanLyNhanSu\\quanlyns\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|F:\\QuanLyNhanSu\\QuanLyNhanSu\\quanlyns\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|solutionrelative:quanlyns\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4D14435-3DBD-49FE-BD4F-8186CB6A2F59}|BusinessLayer\\BusinessLayer.csproj|D:\\BTL\\QuanLyNhanSu\\businesslayer\\dantoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4D14435-3DBD-49FE-BD4F-8186CB6A2F59}|BusinessLayer\\BusinessLayer.csproj|F:\\QuanLyNhanSu\\QuanLyNhanSu\\businesslayer\\dantoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4D14435-3DBD-49FE-BD4F-8186CB6A2F59}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\dantoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4D14435-3DBD-49FE-BD4F-8186CB6A2F59}|BusinessLayer\\BusinessLayer.csproj|D:\\BTL\\QuanLyNhanSu\\businesslayer\\bophan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4D14435-3DBD-49FE-BD4F-8186CB6A2F59}|BusinessLayer\\BusinessLayer.csproj|F:\\QuanLyNhanSu\\QuanLyNhanSu\\businesslayer\\bophan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4D14435-3DBD-49FE-BD4F-8186CB6A2F59}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\bophan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|D:\\BTL\\QuanLyNhanSu\\quanlyns\\frmdantoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|F:\\QuanLyNhanSu\\QuanLyNhanSu\\quanlyns\\frmdantoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|solutionrelative:quanlyns\\frmdantoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|D:\\BTL\\QuanLyNhanSu\\quanlyns\\frmdantoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|F:\\QuanLyNhanSu\\QuanLyNhanSu\\quanlyns\\frmdantoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|solutionrelative:quanlyns\\frmdantoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|D:\\BTL\\QuanLyNhanSu\\quanlyns\\frmcongty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|F:\\QuanLyNhanSu\\QuanLyNhanSu\\quanlyns\\frmcongty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|solutionrelative:quanlyns\\frmcongty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|D:\\BTL\\QuanLyNhanSu\\quanlyns\\frmcongty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|F:\\QuanLyNhanSu\\QuanLyNhanSu\\quanlyns\\frmcongty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|solutionrelative:quanlyns\\frmcongty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4D14435-3DBD-49FE-BD4F-8186CB6A2F59}|BusinessLayer\\BusinessLayer.csproj|D:\\BTL\\QuanLyNhanSu\\businesslayer\\congty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4D14435-3DBD-49FE-BD4F-8186CB6A2F59}|BusinessLayer\\BusinessLayer.csproj|F:\\QuanLyNhanSu\\QuanLyNhanSu\\businesslayer\\congty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4D14435-3DBD-49FE-BD4F-8186CB6A2F59}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\congty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|D:\\BTL\\QuanLyNhanSu\\quanlyns\\frmphongban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|F:\\QuanLyNhanSu\\QuanLyNhanSu\\quanlyns\\frmphongban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|solutionrelative:quanlyns\\frmphongban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|D:\\BTL\\QuanLyNhanSu\\quanlyns\\frmcongty.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|F:\\QuanLyNhanSu\\QuanLyNhanSu\\quanlyns\\frmcongty.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|solutionrelative:quanlyns\\frmcongty.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4D14435-3DBD-49FE-BD4F-8186CB6A2F59}|BusinessLayer\\BusinessLayer.csproj|D:\\BTL\\QuanLyNhanSu\\businesslayer\\phongban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4D14435-3DBD-49FE-BD4F-8186CB6A2F59}|BusinessLayer\\BusinessLayer.csproj|F:\\QuanLyNhanSu\\QuanLyNhanSu\\businesslayer\\phongban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4D14435-3DBD-49FE-BD4F-8186CB6A2F59}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\phongban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|D:\\BTL\\QuanLyNhanSu\\quanlyns\\frmphongban.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|F:\\QuanLyNhanSu\\QuanLyNhanSu\\quanlyns\\frmphongban.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|solutionrelative:quanlyns\\frmphongban.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|D:\\BTL\\QuanLyNhanSu\\quanlyns\\frmtrinhdo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|F:\\QuanLyNhanSu\\QuanLyNhanSu\\quanlyns\\frmtrinhdo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|solutionrelative:quanlyns\\frmtrinhdo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|D:\\BTL\\QuanLyNhanSu\\quanlyns\\frmtrinhdo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|F:\\QuanLyNhanSu\\QuanLyNhanSu\\quanlyns\\frmtrinhdo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|solutionrelative:quanlyns\\frmtrinhdo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|D:\\BTL\\QuanLyNhanSu\\quanlyns\\frmtongiao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|F:\\QuanLyNhanSu\\QuanLyNhanSu\\quanlyns\\frmtongiao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|solutionrelative:quanlyns\\frmtongiao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|D:\\BTL\\QuanLyNhanSu\\quanlyns\\frmtongiao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|F:\\QuanLyNhanSu\\QuanLyNhanSu\\quanlyns\\frmtongiao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|solutionrelative:quanlyns\\frmtongiao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4D14435-3DBD-49FE-BD4F-8186CB6A2F59}|BusinessLayer\\BusinessLayer.csproj|D:\\BTL\\QuanLyNhanSu\\businesslayer\\tongiao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4D14435-3DBD-49FE-BD4F-8186CB6A2F59}|BusinessLayer\\BusinessLayer.csproj|F:\\QuanLyNhanSu\\QuanLyNhanSu\\businesslayer\\tongiao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4D14435-3DBD-49FE-BD4F-8186CB6A2F59}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\tongiao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4D14435-3DBD-49FE-BD4F-8186CB6A2F59}|BusinessLayer\\BusinessLayer.csproj|D:\\BTL\\QuanLyNhanSu\\businesslayer\\trinhdo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4D14435-3DBD-49FE-BD4F-8186CB6A2F59}|BusinessLayer\\BusinessLayer.csproj|F:\\QuanLyNhanSu\\QuanLyNhanSu\\businesslayer\\trinhdo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4D14435-3DBD-49FE-BD4F-8186CB6A2F59}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\trinhdo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|D:\\BTL\\QuanLyNhanSu\\quanlyns\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|F:\\QuanLyNhanSu\\QuanLyNhanSu\\quanlyns\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|solutionrelative:quanlyns\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|D:\\BTL\\QuanLyNhanSu\\quanlyns\\frmtongiao.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|F:\\QuanLyNhanSu\\QuanLyNhanSu\\quanlyns\\frmtongiao.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|solutionrelative:quanlyns\\frmtongiao.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|D:\\BTL\\QuanLyNhanSu\\quanlyns\\frmdantoc.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|F:\\QuanLyNhanSu\\QuanLyNhanSu\\quanlyns\\frmdantoc.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{423A7448-7232-4B7B-B600-3F5FDB2356A6}|QuanLyNS\\QuanLyNS.csproj|solutionrelative:quanlyns\\frmdantoc.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4D14435-3DBD-49FE-BD4F-8186CB6A2F59}|BusinessLayer\\BusinessLayer.csproj|D:\\BTL\\QuanLyNhanSu\\businesslayer\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{C4D14435-3DBD-49FE-BD4F-8186CB6A2F59}|BusinessLayer\\BusinessLayer.csproj|F:\\QuanLyNhanSu\\QuanLyNhanSu\\businesslayer\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{C4D14435-3DBD-49FE-BD4F-8186CB6A2F59}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F3CD9A9-4A90-43F3-A62D-9F963BB3FE30}|DataLayer\\DataLayer.csproj|D:\\BTL\\QuanLyNhanSu\\datalayer\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{0F3CD9A9-4A90-43F3-A62D-9F963BB3FE30}|DataLayer\\DataLayer.csproj|F:\\QuanLyNhanSu\\QuanLyNhanSu\\datalayer\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{0F3CD9A9-4A90-43F3-A62D-9F963BB3FE30}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -146,72 +146,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmChucVu.cs [Design]",
+              "DocumentMoniker": "F:\\QuanLyNhanSu\\QuanLyNhanSu\\QuanLyNS\\frmChucVu.cs",
+              "RelativeDocumentMoniker": "QuanLyNS\\frmChucVu.cs",
+              "ToolTip": "F:\\QuanLyNhanSu\\QuanLyNhanSu\\QuanLyNS\\frmChucVu.cs [Design]*",
+              "RelativeToolTip": "QuanLyNS\\frmChucVu.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T09:11:17.163Z",
+              "EditorCaption": " [Design]"
+            },
+            {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "QLNS.edmx [Diagram1]",
-              "DocumentMoniker": "D:\\BTL\\QuanLyNhanSu\\DataLayer\\QLNS.edmx",
+              "DocumentMoniker": "F:\\QuanLyNhanSu\\QuanLyNhanSu\\DataLayer\\QLNS.edmx",
               "RelativeDocumentMoniker": "DataLayer\\QLNS.edmx",
               "ToolTip": "D:\\BTL\\QuanLyNhanSu\\DataLayer\\QLNS.edmx [Diagram1]",
-              "RelativeToolTip": "DataLayer\\QLNS.edmx [Diagram1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
               "WhenOpened": "2024-10-05T17:23:20.363Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "frmChucVu.Designer.cs",
-              "DocumentMoniker": "D:\\BTL\\QuanLyNhanSu\\QuanLyNS\\frmChucVu.Designer.cs",
+              "DocumentMoniker": "F:\\QuanLyNhanSu\\QuanLyNhanSu\\QuanLyNS\\frmChucVu.Designer.cs",
               "RelativeDocumentMoniker": "QuanLyNS\\frmChucVu.Designer.cs",
-              "ToolTip": "D:\\BTL\\QuanLyNhanSu\\QuanLyNS\\frmChucVu.Designer.cs",
-              "RelativeToolTip": "QuanLyNS\\frmChucVu.Designer.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAwG0AAAAAAAAA",
+              "ToolTip": "F:\\QuanLyNhanSu\\QuanLyNhanSu\\QuanLyNS\\frmChucVu.Designer.cs*",
+              "RelativeToolTip": "QuanLyNS\\frmChucVu.Designer.cs*",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAPUAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-05T16:11:02.753Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "frmChucVu.cs",
-              "DocumentMoniker": "D:\\BTL\\QuanLyNhanSu\\QuanLyNS\\frmChucVu.cs",
+              "DocumentMoniker": "F:\\QuanLyNhanSu\\QuanLyNhanSu\\QuanLyNS\\frmChucVu.cs",
               "RelativeDocumentMoniker": "QuanLyNS\\frmChucVu.cs",
-              "ToolTip": "D:\\BTL\\QuanLyNhanSu\\QuanLyNS\\frmChucVu.cs",
-              "RelativeToolTip": "QuanLyNS\\frmChucVu.cs",
-              "ViewState": "AQIAAEoAAAAAAAAAAAA9wDsAAAANAAAA",
+              "ToolTip": "F:\\QuanLyNhanSu\\QuanLyNhanSu\\QuanLyNS\\frmChucVu.cs*",
+              "RelativeToolTip": "QuanLyNS\\frmChucVu.cs*",
+              "ViewState": "AgIAAEMAAAAAAAAAAADwv3gAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-05T16:10:42.237Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "frmChucVu.cs [Design]",
-              "DocumentMoniker": "D:\\BTL\\QuanLyNhanSu\\QuanLyNS\\frmChucVu.cs",
-              "RelativeDocumentMoniker": "QuanLyNS\\frmChucVu.cs",
-              "ToolTip": "D:\\BTL\\QuanLyNhanSu\\QuanLyNS\\frmChucVu.cs [Design]",
-              "RelativeToolTip": "QuanLyNS\\frmChucVu.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T16:06:48.573Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 8,
               "Title": "CHUCVU.cs",
-              "DocumentMoniker": "D:\\BTL\\QuanLyNhanSu\\BusinessLayer\\CHUCVU.cs",
+              "DocumentMoniker": "F:\\QuanLyNhanSu\\QuanLyNhanSu\\BusinessLayer\\CHUCVU.cs",
               "RelativeDocumentMoniker": "BusinessLayer\\CHUCVU.cs",
-              "ToolTip": "D:\\BTL\\QuanLyNhanSu\\BusinessLayer\\CHUCVU.cs",
+              "ToolTip": "F:\\QuanLyNhanSu\\QuanLyNhanSu\\BusinessLayer\\CHUCVU.cs",
               "RelativeToolTip": "BusinessLayer\\CHUCVU.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -221,9 +220,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "frmBoPhan.Designer.cs",
-              "DocumentMoniker": "D:\\BTL\\QuanLyNhanSu\\QuanLyNS\\frmBoPhan.Designer.cs",
+              "DocumentMoniker": "F:\\QuanLyNhanSu\\QuanLyNhanSu\\QuanLyNS\\frmBoPhan.Designer.cs",
               "RelativeDocumentMoniker": "QuanLyNS\\frmBoPhan.Designer.cs",
-              "ToolTip": "D:\\BTL\\QuanLyNhanSu\\QuanLyNS\\frmBoPhan.Designer.cs",
+              "ToolTip": "F:\\QuanLyNhanSu\\QuanLyNhanSu\\QuanLyNS\\frmBoPhan.Designer.cs",
               "RelativeToolTip": "QuanLyNS\\frmBoPhan.Designer.cs",
               "ViewState": "AQIAABsBAAAAAAAAAAAYwBsBAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -233,9 +232,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "frmBoPhan.cs",
-              "DocumentMoniker": "D:\\BTL\\QuanLyNhanSu\\QuanLyNS\\frmBoPhan.cs",
+              "DocumentMoniker": "F:\\QuanLyNhanSu\\QuanLyNhanSu\\QuanLyNS\\frmBoPhan.cs",
               "RelativeDocumentMoniker": "QuanLyNS\\frmBoPhan.cs",
-              "ToolTip": "D:\\BTL\\QuanLyNhanSu\\QuanLyNS\\frmBoPhan.cs",
+              "ToolTip": "F:\\QuanLyNhanSu\\QuanLyNhanSu\\QuanLyNS\\frmBoPhan.cs",
               "RelativeToolTip": "QuanLyNS\\frmBoPhan.cs",
               "ViewState": "AQIAAGkAAAAAAAAAAAAQwHQAAABPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -245,10 +244,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "frmBoPhan.cs [Design]",
-              "DocumentMoniker": "D:\\BTL\\QuanLyNhanSu\\QuanLyNS\\frmBoPhan.cs",
+              "DocumentMoniker": "F:\\QuanLyNhanSu\\QuanLyNhanSu\\QuanLyNS\\frmBoPhan.cs",
               "RelativeDocumentMoniker": "QuanLyNS\\frmBoPhan.cs",
               "ToolTip": "D:\\BTL\\QuanLyNhanSu\\QuanLyNS\\frmBoPhan.cs [Design]",
-              "RelativeToolTip": "QuanLyNS\\frmBoPhan.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-04T17:36:15.243Z"
             },
@@ -256,9 +254,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "BOPHAN.cs",
-              "DocumentMoniker": "D:\\BTL\\QuanLyNhanSu\\BusinessLayer\\BOPHAN.cs",
+              "DocumentMoniker": "F:\\QuanLyNhanSu\\QuanLyNhanSu\\BusinessLayer\\BOPHAN.cs",
               "RelativeDocumentMoniker": "BusinessLayer\\BOPHAN.cs",
-              "ToolTip": "D:\\BTL\\QuanLyNhanSu\\BusinessLayer\\BOPHAN.cs",
+              "ToolTip": "F:\\QuanLyNhanSu\\QuanLyNhanSu\\BusinessLayer\\BOPHAN.cs",
               "RelativeToolTip": "BusinessLayer\\BOPHAN.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAADAAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -266,12 +264,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "frmTrinhDo.cs [Design]",
-              "DocumentMoniker": "D:\\BTL\\QuanLyNhanSu\\QuanLyNS\\frmTrinhDo.cs",
+              "DocumentMoniker": "F:\\QuanLyNhanSu\\QuanLyNhanSu\\QuanLyNS\\frmTrinhDo.cs",
               "RelativeDocumentMoniker": "QuanLyNS\\frmTrinhDo.cs",
               "ToolTip": "D:\\BTL\\QuanLyNhanSu\\QuanLyNS\\frmTrinhDo.cs [Design]",
-              "RelativeToolTip": "QuanLyNS\\frmTrinhDo.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-04T16:18:10.712Z"
             },
@@ -279,9 +276,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "MainForm.cs",
-              "DocumentMoniker": "D:\\BTL\\QuanLyNhanSu\\QuanLyNS\\MainForm.cs",
+              "DocumentMoniker": "F:\\QuanLyNhanSu\\QuanLyNhanSu\\QuanLyNS\\MainForm.cs",
               "RelativeDocumentMoniker": "QuanLyNS\\MainForm.cs",
-              "ToolTip": "D:\\BTL\\QuanLyNhanSu\\QuanLyNS\\MainForm.cs",
+              "ToolTip": "F:\\QuanLyNhanSu\\QuanLyNhanSu\\QuanLyNS\\MainForm.cs",
               "RelativeToolTip": "QuanLyNS\\MainForm.cs",
               "ViewState": "AQIAAD8AAAAAAAAAAAAYwEcAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -291,10 +288,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "frmDanToc.cs [Design]",
-              "DocumentMoniker": "D:\\BTL\\QuanLyNhanSu\\QuanLyNS\\frmDanToc.cs",
+              "DocumentMoniker": "F:\\QuanLyNhanSu\\QuanLyNhanSu\\QuanLyNS\\frmDanToc.cs",
               "RelativeDocumentMoniker": "QuanLyNS\\frmDanToc.cs",
               "ToolTip": "D:\\BTL\\QuanLyNhanSu\\QuanLyNS\\frmDanToc.cs [Design]",
-              "RelativeToolTip": "QuanLyNS\\frmDanToc.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-02T01:37:52.542Z"
             },
@@ -302,9 +298,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "frmDanToc.cs",
-              "DocumentMoniker": "D:\\BTL\\QuanLyNhanSu\\QuanLyNS\\frmDanToc.cs",
+              "DocumentMoniker": "F:\\QuanLyNhanSu\\QuanLyNhanSu\\QuanLyNS\\frmDanToc.cs",
               "RelativeDocumentMoniker": "QuanLyNS\\frmDanToc.cs",
-              "ToolTip": "D:\\BTL\\QuanLyNhanSu\\QuanLyNS\\frmDanToc.cs",
+              "ToolTip": "F:\\QuanLyNhanSu\\QuanLyNhanSu\\QuanLyNS\\frmDanToc.cs",
               "RelativeToolTip": "QuanLyNS\\frmDanToc.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAkwBEAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -312,12 +308,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "MainForm.cs [Design]",
-              "DocumentMoniker": "D:\\BTL\\QuanLyNhanSu\\QuanLyNS\\MainForm.cs",
+              "DocumentMoniker": "F:\\QuanLyNhanSu\\QuanLyNhanSu\\QuanLyNS\\MainForm.cs",
               "RelativeDocumentMoniker": "QuanLyNS\\MainForm.cs",
               "ToolTip": "D:\\BTL\\QuanLyNhanSu\\QuanLyNS\\MainForm.cs [Design]",
-              "RelativeToolTip": "QuanLyNS\\MainForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-02T01:33:32.651Z"
             },
@@ -325,9 +320,9 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "frmPhongBan.cs",
-              "DocumentMoniker": "D:\\BTL\\QuanLyNhanSu\\QuanLyNS\\frmPhongBan.cs",
+              "DocumentMoniker": "F:\\QuanLyNhanSu\\QuanLyNhanSu\\QuanLyNS\\frmPhongBan.cs",
               "RelativeDocumentMoniker": "QuanLyNS\\frmPhongBan.cs",
-              "ToolTip": "D:\\BTL\\QuanLyNhanSu\\QuanLyNS\\frmPhongBan.cs",
+              "ToolTip": "F:\\QuanLyNhanSu\\QuanLyNhanSu\\QuanLyNS\\frmPhongBan.cs",
               "RelativeToolTip": "QuanLyNS\\frmPhongBan.cs",
               "ViewState": "AQIAAGUAAAAAAAAAAAAkwG0AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -337,10 +332,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "frmCongTy.cs [Design]",
-              "DocumentMoniker": "D:\\BTL\\QuanLyNhanSu\\QuanLyNS\\frmCongTy.cs",
+              "DocumentMoniker": "F:\\QuanLyNhanSu\\QuanLyNhanSu\\QuanLyNS\\frmCongTy.cs",
               "RelativeDocumentMoniker": "QuanLyNS\\frmCongTy.cs",
               "ToolTip": "D:\\BTL\\QuanLyNhanSu\\QuanLyNS\\frmCongTy.cs [Design]",
-              "RelativeToolTip": "QuanLyNS\\frmCongTy.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-04T17:02:15.118Z"
             },
@@ -348,9 +342,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "DANTOC.cs",
-              "DocumentMoniker": "D:\\BTL\\QuanLyNhanSu\\BusinessLayer\\DANTOC.cs",
+              "DocumentMoniker": "F:\\QuanLyNhanSu\\QuanLyNhanSu\\BusinessLayer\\DANTOC.cs",
               "RelativeDocumentMoniker": "BusinessLayer\\DANTOC.cs",
-              "ToolTip": "D:\\BTL\\QuanLyNhanSu\\BusinessLayer\\DANTOC.cs",
+              "ToolTip": "F:\\QuanLyNhanSu\\QuanLyNhanSu\\BusinessLayer\\DANTOC.cs",
               "RelativeToolTip": "BusinessLayer\\DANTOC.cs",
               "ViewState": "AQIAADQAAAAAAAAAAAAkwEAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -360,9 +354,9 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "CONGTY.cs",
-              "DocumentMoniker": "D:\\BTL\\QuanLyNhanSu\\BusinessLayer\\CONGTY.cs",
+              "DocumentMoniker": "F:\\QuanLyNhanSu\\QuanLyNhanSu\\BusinessLayer\\CONGTY.cs",
               "RelativeDocumentMoniker": "BusinessLayer\\CONGTY.cs",
-              "ToolTip": "D:\\BTL\\QuanLyNhanSu\\BusinessLayer\\CONGTY.cs",
+              "ToolTip": "F:\\QuanLyNhanSu\\QuanLyNhanSu\\BusinessLayer\\CONGTY.cs",
               "RelativeToolTip": "BusinessLayer\\CONGTY.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAABPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -372,9 +366,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "frmCongTy.cs",
-              "DocumentMoniker": "D:\\BTL\\QuanLyNhanSu\\QuanLyNS\\frmCongTy.cs",
+              "DocumentMoniker": "F:\\QuanLyNhanSu\\QuanLyNhanSu\\QuanLyNS\\frmCongTy.cs",
               "RelativeDocumentMoniker": "QuanLyNS\\frmCongTy.cs",
-              "ToolTip": "D:\\BTL\\QuanLyNhanSu\\QuanLyNS\\frmCongTy.cs",
+              "ToolTip": "F:\\QuanLyNhanSu\\QuanLyNhanSu\\QuanLyNS\\frmCongTy.cs",
               "RelativeToolTip": "QuanLyNS\\frmCongTy.cs",
               "ViewState": "AQIAAB8AAAAAAAAAAAAQwCgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -382,12 +376,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "frmPhongBan.cs [Design]",
-              "DocumentMoniker": "D:\\BTL\\QuanLyNhanSu\\QuanLyNS\\frmPhongBan.cs",
+              "DocumentMoniker": "F:\\QuanLyNhanSu\\QuanLyNhanSu\\QuanLyNS\\frmPhongBan.cs",
               "RelativeDocumentMoniker": "QuanLyNS\\frmPhongBan.cs",
               "ToolTip": "D:\\BTL\\QuanLyNhanSu\\QuanLyNS\\frmPhongBan.cs [Design]",
-              "RelativeToolTip": "QuanLyNS\\frmPhongBan.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-04T16:40:40.926Z"
             },
@@ -395,9 +388,9 @@
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "frmCongTy.Designer.cs",
-              "DocumentMoniker": "D:\\BTL\\QuanLyNhanSu\\QuanLyNS\\frmCongTy.Designer.cs",
+              "DocumentMoniker": "F:\\QuanLyNhanSu\\QuanLyNhanSu\\QuanLyNS\\frmCongTy.Designer.cs",
               "RelativeDocumentMoniker": "QuanLyNS\\frmCongTy.Designer.cs",
-              "ToolTip": "D:\\BTL\\QuanLyNhanSu\\QuanLyNS\\frmCongTy.Designer.cs",
+              "ToolTip": "F:\\QuanLyNhanSu\\QuanLyNhanSu\\QuanLyNS\\frmCongTy.Designer.cs",
               "RelativeToolTip": "QuanLyNS\\frmCongTy.Designer.cs",
               "ViewState": "AQIAAIQAAAAAAAAAAAAYwI8AAABoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -407,9 +400,9 @@
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "frmPhongBan.Designer.cs",
-              "DocumentMoniker": "D:\\BTL\\QuanLyNhanSu\\QuanLyNS\\frmPhongBan.Designer.cs",
+              "DocumentMoniker": "F:\\QuanLyNhanSu\\QuanLyNhanSu\\QuanLyNS\\frmPhongBan.Designer.cs",
               "RelativeDocumentMoniker": "QuanLyNS\\frmPhongBan.Designer.cs",
-              "ToolTip": "D:\\BTL\\QuanLyNhanSu\\QuanLyNS\\frmPhongBan.Designer.cs",
+              "ToolTip": "F:\\QuanLyNhanSu\\QuanLyNhanSu\\QuanLyNS\\frmPhongBan.Designer.cs",
               "RelativeToolTip": "QuanLyNS\\frmPhongBan.Designer.cs",
               "ViewState": "AQIAABwBAAAAAAAAAAAYwCQBAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -419,9 +412,9 @@
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "PHONGBAN.cs",
-              "DocumentMoniker": "D:\\BTL\\QuanLyNhanSu\\BusinessLayer\\PHONGBAN.cs",
+              "DocumentMoniker": "F:\\QuanLyNhanSu\\QuanLyNhanSu\\BusinessLayer\\PHONGBAN.cs",
               "RelativeDocumentMoniker": "BusinessLayer\\PHONGBAN.cs",
-              "ToolTip": "D:\\BTL\\QuanLyNhanSu\\BusinessLayer\\PHONGBAN.cs",
+              "ToolTip": "F:\\QuanLyNhanSu\\QuanLyNhanSu\\BusinessLayer\\PHONGBAN.cs",
               "RelativeToolTip": "BusinessLayer\\PHONGBAN.cs",
               "ViewState": "AQIAADQAAAAAAAAAAAAkwEAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -431,9 +424,9 @@
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "frmTrinhDo.cs",
-              "DocumentMoniker": "D:\\BTL\\QuanLyNhanSu\\QuanLyNS\\frmTrinhDo.cs",
+              "DocumentMoniker": "F:\\QuanLyNhanSu\\QuanLyNhanSu\\QuanLyNS\\frmTrinhDo.cs",
               "RelativeDocumentMoniker": "QuanLyNS\\frmTrinhDo.cs",
-              "ToolTip": "D:\\BTL\\QuanLyNhanSu\\QuanLyNS\\frmTrinhDo.cs",
+              "ToolTip": "F:\\QuanLyNhanSu\\QuanLyNhanSu\\QuanLyNS\\frmTrinhDo.cs",
               "RelativeToolTip": "QuanLyNS\\frmTrinhDo.cs",
               "ViewState": "AQIAAD4AAAAAAAAAAAAswEQAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -443,9 +436,9 @@
               "$type": "Document",
               "DocumentIndex": 24,
               "Title": "frmTrinhDo.Designer.cs",
-              "DocumentMoniker": "D:\\BTL\\QuanLyNhanSu\\QuanLyNS\\frmTrinhDo.Designer.cs",
+              "DocumentMoniker": "F:\\QuanLyNhanSu\\QuanLyNhanSu\\QuanLyNS\\frmTrinhDo.Designer.cs",
               "RelativeDocumentMoniker": "QuanLyNS\\frmTrinhDo.Designer.cs",
-              "ToolTip": "D:\\BTL\\QuanLyNhanSu\\QuanLyNS\\frmTrinhDo.Designer.cs",
+              "ToolTip": "F:\\QuanLyNhanSu\\QuanLyNhanSu\\QuanLyNS\\frmTrinhDo.Designer.cs",
               "RelativeToolTip": "QuanLyNS\\frmTrinhDo.Designer.cs",
               "ViewState": "AQIAAIIAAAAAAAAAAAAYwI0AAABoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -455,9 +448,9 @@
               "$type": "Document",
               "DocumentIndex": 25,
               "Title": "frmTonGiao.cs",
-              "DocumentMoniker": "D:\\BTL\\QuanLyNhanSu\\QuanLyNS\\frmTonGiao.cs",
+              "DocumentMoniker": "F:\\QuanLyNhanSu\\QuanLyNhanSu\\QuanLyNS\\frmTonGiao.cs",
               "RelativeDocumentMoniker": "QuanLyNS\\frmTonGiao.cs",
-              "ToolTip": "D:\\BTL\\QuanLyNhanSu\\QuanLyNS\\frmTonGiao.cs",
+              "ToolTip": "F:\\QuanLyNhanSu\\QuanLyNhanSu\\QuanLyNS\\frmTonGiao.cs",
               "RelativeToolTip": "QuanLyNS\\frmTonGiao.cs",
               "ViewState": "AQIAAHEAAAAAAAAAAAAEwHQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -467,9 +460,9 @@
               "$type": "Document",
               "DocumentIndex": 27,
               "Title": "TONGIAO.cs",
-              "DocumentMoniker": "D:\\BTL\\QuanLyNhanSu\\BusinessLayer\\TONGIAO.cs",
+              "DocumentMoniker": "F:\\QuanLyNhanSu\\QuanLyNhanSu\\BusinessLayer\\TONGIAO.cs",
               "RelativeDocumentMoniker": "BusinessLayer\\TONGIAO.cs",
-              "ToolTip": "D:\\BTL\\QuanLyNhanSu\\BusinessLayer\\TONGIAO.cs",
+              "ToolTip": "F:\\QuanLyNhanSu\\QuanLyNhanSu\\BusinessLayer\\TONGIAO.cs",
               "RelativeToolTip": "BusinessLayer\\TONGIAO.cs",
               "ViewState": "AQIAAC4AAAAAAAAAAAAkwEAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -479,9 +472,9 @@
               "$type": "Document",
               "DocumentIndex": 28,
               "Title": "TRINHDO.cs",
-              "DocumentMoniker": "D:\\BTL\\QuanLyNhanSu\\BusinessLayer\\TRINHDO.cs",
+              "DocumentMoniker": "F:\\QuanLyNhanSu\\QuanLyNhanSu\\BusinessLayer\\TRINHDO.cs",
               "RelativeDocumentMoniker": "BusinessLayer\\TRINHDO.cs",
-              "ToolTip": "D:\\BTL\\QuanLyNhanSu\\BusinessLayer\\TRINHDO.cs",
+              "ToolTip": "F:\\QuanLyNhanSu\\QuanLyNhanSu\\BusinessLayer\\TRINHDO.cs",
               "RelativeToolTip": "BusinessLayer\\TRINHDO.cs",
               "ViewState": "AQIAACgAAAAAAAAAAAAkwEAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -491,10 +484,9 @@
               "$type": "Document",
               "DocumentIndex": 26,
               "Title": "frmTonGiao.cs [Design]",
-              "DocumentMoniker": "D:\\BTL\\QuanLyNhanSu\\QuanLyNS\\frmTonGiao.cs",
+              "DocumentMoniker": "F:\\QuanLyNhanSu\\QuanLyNhanSu\\QuanLyNS\\frmTonGiao.cs",
               "RelativeDocumentMoniker": "QuanLyNS\\frmTonGiao.cs",
               "ToolTip": "D:\\BTL\\QuanLyNhanSu\\QuanLyNS\\frmTonGiao.cs [Design]",
-              "RelativeToolTip": "QuanLyNS\\frmTonGiao.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-02T02:04:33.629Z"
             },
@@ -502,9 +494,9 @@
               "$type": "Document",
               "DocumentIndex": 29,
               "Title": "MainForm.Designer.cs",
-              "DocumentMoniker": "D:\\BTL\\QuanLyNhanSu\\QuanLyNS\\MainForm.Designer.cs",
+              "DocumentMoniker": "F:\\QuanLyNhanSu\\QuanLyNhanSu\\QuanLyNS\\MainForm.Designer.cs",
               "RelativeDocumentMoniker": "QuanLyNS\\MainForm.Designer.cs",
-              "ToolTip": "D:\\BTL\\QuanLyNhanSu\\QuanLyNS\\MainForm.Designer.cs",
+              "ToolTip": "F:\\QuanLyNhanSu\\QuanLyNhanSu\\QuanLyNS\\MainForm.Designer.cs",
               "RelativeToolTip": "QuanLyNS\\MainForm.Designer.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAAwAMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -514,9 +506,9 @@
               "$type": "Document",
               "DocumentIndex": 31,
               "Title": "frmDanToc.Designer.cs",
-              "DocumentMoniker": "D:\\BTL\\QuanLyNhanSu\\QuanLyNS\\frmDanToc.Designer.cs",
+              "DocumentMoniker": "F:\\QuanLyNhanSu\\QuanLyNhanSu\\QuanLyNS\\frmDanToc.Designer.cs",
               "RelativeDocumentMoniker": "QuanLyNS\\frmDanToc.Designer.cs",
-              "ToolTip": "D:\\BTL\\QuanLyNhanSu\\QuanLyNS\\frmDanToc.Designer.cs",
+              "ToolTip": "F:\\QuanLyNhanSu\\QuanLyNhanSu\\QuanLyNS\\frmDanToc.Designer.cs",
               "RelativeToolTip": "QuanLyNS\\frmDanToc.Designer.cs",
               "ViewState": "AQIAADQBAAAAAAAAAAAqwEoBAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -526,9 +518,9 @@
               "$type": "Document",
               "DocumentIndex": 30,
               "Title": "frmTonGiao.Designer.cs",
-              "DocumentMoniker": "D:\\BTL\\QuanLyNhanSu\\QuanLyNS\\frmTonGiao.Designer.cs",
+              "DocumentMoniker": "F:\\QuanLyNhanSu\\QuanLyNhanSu\\QuanLyNS\\frmTonGiao.Designer.cs",
               "RelativeDocumentMoniker": "QuanLyNS\\frmTonGiao.Designer.cs",
-              "ToolTip": "D:\\BTL\\QuanLyNhanSu\\QuanLyNS\\frmTonGiao.Designer.cs",
+              "ToolTip": "F:\\QuanLyNhanSu\\QuanLyNhanSu\\QuanLyNS\\frmTonGiao.Designer.cs",
               "RelativeToolTip": "QuanLyNS\\frmTonGiao.Designer.cs",
               "ViewState": "AQIAABoBAAAAAAAAAAAawCYBAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -538,9 +530,9 @@
               "$type": "Document",
               "DocumentIndex": 32,
               "Title": "App.config",
-              "DocumentMoniker": "D:\\BTL\\QuanLyNhanSu\\BusinessLayer\\App.config",
+              "DocumentMoniker": "F:\\QuanLyNhanSu\\QuanLyNhanSu\\BusinessLayer\\App.config",
               "RelativeDocumentMoniker": "BusinessLayer\\App.config",
-              "ToolTip": "D:\\BTL\\QuanLyNhanSu\\BusinessLayer\\App.config",
+              "ToolTip": "F:\\QuanLyNhanSu\\QuanLyNhanSu\\BusinessLayer\\App.config",
               "RelativeToolTip": "BusinessLayer\\App.config",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -550,9 +542,9 @@
               "$type": "Document",
               "DocumentIndex": 33,
               "Title": "packages.config",
-              "DocumentMoniker": "D:\\BTL\\QuanLyNhanSu\\DataLayer\\packages.config",
+              "DocumentMoniker": "F:\\QuanLyNhanSu\\QuanLyNhanSu\\DataLayer\\packages.config",
               "RelativeDocumentMoniker": "DataLayer\\packages.config",
-              "ToolTip": "D:\\BTL\\QuanLyNhanSu\\DataLayer\\packages.config",
+              "ToolTip": "F:\\QuanLyNhanSu\\QuanLyNhanSu\\DataLayer\\packages.config",
               "RelativeToolTip": "DataLayer\\packages.config",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
